@@ -1,0 +1,5 @@
+include ':createcontact'
+include ':AddNewContact'
+include ':CreatContact'
+include ':app'
+rootProject.name = "Contacts"

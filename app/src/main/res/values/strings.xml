@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="title_creatcontact">New contact</string>
+    <string name="enter_number">Enter number</string>
+    <string name="enter_name">Enter name</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+</resources>
